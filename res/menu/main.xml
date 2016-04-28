@@ -1,0 +1,18 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    
+    <item android:id="@menu/configuration" 
+        android:showAsAction="never" 
+        android:orderInCategory="80"
+        android:title="@string/title_activity_configuration"></item>
+    
+    <item android:id="@menu/apropos" 
+        android:showAsAction="never" 
+        android:orderInCategory="90" 
+        android:title="@string/title_activity_apropos"></item>
+    
+    <item android:id="@menu/menu" android:orderInCategory="55" 
+        android:showAsAction="never" 
+        android:title="@string/title_activity_menu"></item>
+    
+
+</menu>

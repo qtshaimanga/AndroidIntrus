@@ -1,0 +1,14 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="ft.iutlens.mmi.intrus.Apropos" >
+
+    <item
+        android:id="@menu/configuration"
+        android:orderInCategory="80"
+        android:title="@string/title_activity_configuration"
+        app:showAsAction="never" android:showAsAction="never"/>
+    <item android:id="@menu/main" android:showAsAction="never" android:orderInCategory="70" android:title="@string/title_activity_main"></item>
+    <item android:id="@menu/menu" android:orderInCategory="50" android:title="@string/title_activity_menu" android:showAsAction="never"></item>
+
+</menu>

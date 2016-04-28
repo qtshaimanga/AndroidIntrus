@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Intrus</string>
+    <string name="title_activity_main">Jouer</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_menu">Intrus</string>
+    <string name="action_settings">setting</string>
+    <string name="title_activity_score">Score</string>
+    <string name="title_activity_apropos">Apropos</string>
+    <string name="title_activity_configuration">Timing</string>
+
+</resources>
